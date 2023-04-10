@@ -1,0 +1,45 @@
+const data = {
+  products: [
+    {
+      name: 'Refka',
+      slug: 'Refka',
+      categorie: 'Robe',
+      image: '/images/p1.jpg',
+      price: 190,
+      countInStock: 20,
+      rating: 4,
+      discription: 'Ecru - Orange - Floral - Col',
+    },
+    {
+      name: 'Rİsabella Accessories',
+      slug: 'Accessoire-nouveau',
+      categorie: 'Accessoire',
+      image: '/images/p2.jpg',
+      price: 30,
+      countInStock: 10,
+      rating: 4.5,
+      discription: 'Lunette de soleil',
+    },
+    {
+      name: 'RABBA',
+      slug: 'noir-sacs-à-main',
+      categorie: 'Sacs',
+      image: '/images/p3.jpg',
+      price: 50,
+      countInStock: 20,
+      rating: 4,
+      discription: 'Noir - Sacs à main',
+    },
+    {
+      name: 'Pembe Potin',
+      slug: 'lilas-sandales-chaussons-sandale-pembe-potin',
+      categorie: 'Chaussures',
+      image: '/images/p4.jpg',
+      price: 70,
+      countInStock: 20,
+      rating: 4,
+      discription: 'Sandales / Chaussons - Sandale',
+    },
+  ],
+};
+export default data;
